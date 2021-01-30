@@ -1,5 +1,4 @@
 import React from 'react';
-//import Card from "react-bootstrap/Card";
 //import {ReactPlayer  } from "react-player";
 const About = () => {
 return (
