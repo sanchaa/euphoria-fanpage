@@ -1,0 +1,144 @@
+* {
+  margin: 5;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+.navbar .nav-link {
+  /*background-color: blueviolet !important;*/
+  text-align: justify !important;
+}
+
+.navbar-nav {
+  width: 30%;
+  margin: auto;
+}
+
+.nav-link {
+  position: relative !important;
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.home-link {
+  position: relative !important;
+  top: -10px !important;
+}
+/* @media (min-width: 1000px) { 
+  .home-link {
+  left: 430px;
+  }
+}
+ */
+.navbar {
+  padding: 2.5rem 3rem !important; 
+  display: block !important;
+}
+
+.logo-link {
+  text-align: center;
+}
+
+.onlyfanpage {
+  color: white;
+  text-align:center;
+  margin-top: -10%;
+  left: -10%;
+  font-size: 13px;
+}
+/*@media screen {min-width: 600px)}
+  .onlyfanpage {
+    text-align: right;
+  }
+}*/
+
+
+.student-margins {
+  margin: auto;
+  margin-top: 0%;
+
+}
+
+.intro1 {
+  margin-left: 10px;
+}
+
+
+.cover-image {
+  margin-top: 1px;
+  width: 100%;
+}
+/*@media (min-width: 50vw) {
+  .cover-image {
+    background-color: cornflowerblue;
+  }*/
+
+.accountsB {
+  display: absolute;
+  right: 0;
+}
+
+.Welcome {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 80px;
+  text-align: center;
+}
+
+#Home-page .card-img-top {
+width: 150px;
+height: 100px;
+}
+
+.euphoria-teaser {
+  margin-left: 8%;
+  justify-content: center !important;
+  align-items:center !important;
+  margin-top: 0.10%;
+}
+  @media (min-width: 50vw) {
+
+  }
+
+.flex-image-container {
+  display: inline-flex;
+  grid-template-columns: repeat(auto-fit, minmax(304px));
+  grid-gap: 20px;
+}
+
+
+
+
+/*.StudentID {
+  width: 460px;
+  display: flex;
+  border-radius: 6px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*image {
+  width: 20px;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
+-info {
+text-align: left;
+padding-left: 15px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
+p, h2 {
+  margin: 0;
+}
+
+h2{
+  padding: 10px 0;
+}
+
+-age{
+  font-style: italic;
+  font-size: 12;
+  padding-bottom: 15px;
+  color: grey;
+}*/
